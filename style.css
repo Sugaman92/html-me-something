@@ -4,3 +4,25 @@ body {
   background-attachment: fixed;
   background-size: cover;
 }
+
+article {
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-style: italic;
+  text-align: center;
+  color: black;
+}
+
+article:hover {
+  color: orange;
+  text-shadow: 3px;
+}
+
+#myFooter {
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: italic;
+}
+
+#myFooter:hover {
+  color: orange;
+  text-shadow: 3px;
+}
